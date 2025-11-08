@@ -1,5 +1,4 @@
 site_name: VT Manual
-site_dir: docs
 markdown_extensions:
   - admonition
   - pymdownx.details

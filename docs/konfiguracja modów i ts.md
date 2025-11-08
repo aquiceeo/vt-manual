@@ -1,0 +1,1 @@
+# Konfiguracja modów i TS

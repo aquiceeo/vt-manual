@@ -1,4 +1,4 @@
-# VT Manual
+# Manual
 ## Podstawy
 ### Punkty zdrowego VTka
 1. Leader mówi, ty robisz, czas na pomysły był wcześniej.
@@ -24,13 +24,13 @@ Kolory
 - 🟨  Żółty --> mało amunicji albo jestem ranny ale mogę się ruszać  
 - 🟥  Czerwony -->  bardzo mało amunicji lub jestem tak ranny że poruszam się wolno  
 
-**Przykład 1:**  
-- utek: Squad Check  
-- Cak3: Zielony  
-- nAil: ammo, żółty  
-- Yaza (umarł): .......  
-- Stefan (po 3 sekundach ciszy): Zielony  
-- aquiceeo: Ammo Czerowny, Zdrowie Żółty  
+> **Przykład 1:**  
+> utek: Squad Check  
+> Cak3: Zielony  
+> nAil: ammo, żółty  
+> Yaza (umarł): .......  
+> Stefan (po 3 sekundach ciszy): Zielony  
+> aquiceeo: Ammo Czerowny, Zdrowie Żółty  
 
 !!! question "Po co to?" 
 	Stosuje się to do **szybkiego** sprawdzenia czy komuś coś się stało przed lub po manewrze, walce.
@@ -47,7 +47,7 @@ Kolory
 - Przekazywane informacje są zwięzłe i ścisłe –nie pozwalają na dwuznaczną interpretację.  
 - Jeśli usłyszysz "BREAK, BREAK, BREAK" lub "MAYDAY, MAYDAY" musisz natychmiast przerwać swój komunikat!  
 
-**Przykład 1:**  
+> **Przykład 1:**  
 > A: HQ dla Alpha zgłoś.  
 > *[czekamy aż HQ odpowie czy można nadawać]*  
 > HQ: Alpha nadawaj  

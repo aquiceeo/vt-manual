@@ -9,8 +9,3 @@ theme:
     scheme: slate
     primary: red
     accent: red
-plugins:
-  - calendar
-    tz: Europe/Zurich
-    start: 2023-02-20
-    end: 2023-06-23

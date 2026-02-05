@@ -3,9 +3,12 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
 theme:
   name: material
   palette:
     scheme: slate
     primary: red
     accent: red
+

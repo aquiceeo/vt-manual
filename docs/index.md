@@ -5,7 +5,7 @@ Witaj w instrukcji do Arma 3 dla klanu VT. Jeśli grasz z nami w Armę 3 poniże
 
 !!! question "Po co to?" 
 	Arma zyskuje przy grze w kilka osób. Błyszczy przy grze w kilkanaście bądź kiladziesiąt.
-  
-Nasze presety - https://github.com/ut3k/arma3_vt_setup/releases  
-Nasz discord - https://discord.gg/87sZzY6DdE  
-Nasz Unit w Armie 3 - https://units.arma3.com/unit/vectortactics  
+
+Nasze presety - [github.com/ut3k/arma3_vt_setup/releases](https://github.com/ut3k/arma3_vt_setup/releases)  
+Nasz discord - [discord.gg/87sZzY6DdE](https://discord.gg/87sZzY6DdE)  
+Nasz Unit w Armie 3 - [units.arma3.com/unit/vectortactics](https://units.arma3.com/unit/vectortactics)  

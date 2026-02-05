@@ -8,6 +8,6 @@ warto korzystać z wersji Army Profiling, trzeba to przestawić w Steam, interne
 
 ## Optymalizacja ustawień graficznych
 
-poniej znajduje się link do YouTube gdzie pokazane jest jak zoptymalizować Arme
+poniej znajduje się link do YouTube, gdzie pokazane jest jak zoptymalizować Arme
 
 [YouTube](https://www.youtube.com/watch?v=GktBSZcglFk)

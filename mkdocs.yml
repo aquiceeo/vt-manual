@@ -11,3 +11,15 @@ theme:
     scheme: slate
     primary: red
     accent: red
+nav:
+  - Strona główna: index.md
+  - Manual: manual.md
+  - Konfiguracja: konfiguracja.md
+  - Radio: radio.md
+  - Role:
+      - Snajper: sniper.md
+      - Medic: medic.md
+      - JTAC Heli: JTAC-heli.md
+  - Porady: porady-sl.md
+  - Optymalizacja: optymalizacja.md
+  - Dodatkowe: dodatkowe.md

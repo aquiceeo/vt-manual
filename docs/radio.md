@@ -1,7 +1,5 @@
-## RADIO - co mówiłeś?
-
-### Zasady korzystania z radia
-
+# Radio
+## Zasady korzystania z radia
 - Przemyśl co chcesz powiedzieć
 - Słuchaj zanim coś powiesz
 - Krótki treściwy komunikat w prostym języku
@@ -36,6 +34,3 @@
 > Charlie: BREAK BREAK BREAK  
 > [zapada cisza ze strony Alpha i Bravo]  
 > Charlie: _Nadaje ważny komunikat_
-
-### JTAC/Radioman
-

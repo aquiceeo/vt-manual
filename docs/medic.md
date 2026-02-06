@@ -1,3 +1,4 @@
+# Medic
 ## PODSTAWY MEDYCZNE - Zanim zawołasz medyka! 
 **Przenieś**  
 - robienie cpr na środku pola bez osłony to zły pomysł  

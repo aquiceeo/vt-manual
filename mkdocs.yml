@@ -11,14 +11,15 @@ theme:
     scheme: slate
     primary: red
     accent: red
+# nie ma potrzeby tytułować tutaj, nagłówek # w konkretnym pliku jest jednocześnie tytułem
 nav:
-  - Strona główna: index.md
-  - Konfiguracja: konfiguracja.md
-  - Radio: radio.md
+  - index.md
+  - konfiguracja.md
+  - podstawy.md
+  - radio.md
   - Role:
-      - Snajper: sniper.md
-      - Medic: medic.md
-      - JTAC Heli: JTAC-heli.md
-  - Porady: porady-sl.md
-  - Optymalizacja: optymalizacja.md
+      - sl.md
+      - medic.md
+      - sniper.md
+      - JTAC-heli.md
   - Dodatkowe: dodatkowe.md

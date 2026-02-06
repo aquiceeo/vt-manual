@@ -13,7 +13,6 @@ theme:
     accent: red
 nav:
   - Strona główna: index.md
-  - Manual: manual.md
   - Konfiguracja: konfiguracja.md
   - Radio: radio.md
   - Role:

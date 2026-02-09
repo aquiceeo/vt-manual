@@ -7,10 +7,12 @@ Przed wykonaniem strzału sprawdź:
 
 ## Strzelanie Karta balistyczna
 
+<!-- TODO:  --> <!-- trzeba zrobić rozpiskę z grafikami karty -->
 Otwórz Karte by poznać korekte jaką masz ustawić na celowniku
 
 ## Strzelanie komputer AtraGX
 
+<!-- TODO: temat jak wyżej -->
 To jest trudniejszy temat.
 wątek "WORK IN PROGRESS"
 

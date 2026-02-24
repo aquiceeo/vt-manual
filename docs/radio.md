@@ -21,6 +21,8 @@ to na radiu zaczynasz tak
 
 > Bravo dla Alpha, zgłoś
 
+## Przykłady
+
 > **Przykład 1:**  
 > A: HQ dla Alpha zgłoś.  
 > _[czekamy aż HQ odpowie czy można nadawać]_  

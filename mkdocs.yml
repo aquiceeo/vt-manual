@@ -23,5 +23,6 @@ nav:
       - medic.md
       - sniper.md
       - JTAC-heli.md
-  - Dodatkowe: dodatkowe.md
-
+  - Dodatkowe:
+      - dodatkowe.md
+      - struktura_dowodzenia.md

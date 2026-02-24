@@ -19,7 +19,9 @@ nav:
   - radio.md
   - formacje.md
   - Role:
+      - pl.md
       - sl.md
+      - tl.md
       - medic.md
       - sniper.md
       - JTAC-heli.md

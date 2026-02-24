@@ -15,8 +15,8 @@
 
 ## Schemat wywołania
 
-Najpierw mówisz do kogo "dzownisz", potem się przedstawiasz
-czyli jak Ty jesteś Alpha, i masz wiadomość do Bravo
+Najpierw mówisz do kogo "dzownisz", potem się przedstawiasz.
+Czyli jak Ty jesteś Alpha, i masz wiadomość do Bravo,
 to na radiu zaczynasz tak
 
 > Bravo dla Alpha, zgłoś
@@ -47,4 +47,3 @@ to na radiu zaczynasz tak
 > Charlie: BREAK BREAK BREAK  
 > [zapada cisza ze strony Alpha i Bravo]  
 > Charlie: _Nadaje ważny komunikat_
-

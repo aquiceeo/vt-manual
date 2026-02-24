@@ -23,7 +23,8 @@ to na radiu zaczynasz tak
 
 ## Przykłady
 
-> **Przykład 1:**  
+**Przykład 1:**
+
 > A: HQ dla Alpha zgłoś.  
 > _[czekamy aż HQ odpowie czy można nadawać]_  
 > HQ: Alpha nadawaj  

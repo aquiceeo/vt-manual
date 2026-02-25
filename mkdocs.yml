@@ -24,9 +24,11 @@ nav:
       - tl.md
       - medic.md
       # - sniper.md
-      # - JTAC-heli.md
+      - JTAC-heli.md
   - Radio:
       - radio.md
       - raporty.md
-  - Dodatkowe:
-      - dodatkowe.md
+      - slownik_cas.md
+      - 5liner.md
+
+  - dodatkowe.md

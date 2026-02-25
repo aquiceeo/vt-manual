@@ -1,8 +1,14 @@
-# Komunikacja CAS / JTAC
+# JTAC
 
-<!-- TODO: skrócic tekst   od CAKE -->
+Osoba która wzywa wsparcie Powietrzne lub Artyleryjskie
 
-## Słownik
+## Co Musisz wiedzieć
+
+Wymagana wiedza od Ciebie to:
+
+- [Radio](radio.md)
+- [5 Liner](5liner.md)
+- [Słownik CAS](slownik_cas.md)
 
 ## Informacje dodatkowe
 

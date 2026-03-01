@@ -1,4 +1,4 @@
-# Radio
+# Podstawy - radio
 ## Zasady korzystania z radia
 - Przemyśl co chcesz powiedzieć
 - Słuchaj zanim coś powiesz

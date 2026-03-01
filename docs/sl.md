@@ -1,4 +1,4 @@
-# SL
+# Squad Leader
 
 ## CHECKLIST - czyli jak uniknąć wyjebki na briefingu
 
@@ -28,4 +28,3 @@ Kolory
 ## Po co to?
 
 Stosuje się to do **szybkiego** sprawdzenia czy komuś coś się stało przed lub po manewrze, walce.
-

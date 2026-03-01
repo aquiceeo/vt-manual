@@ -15,10 +15,18 @@ nav:
   - index.md
   - konfiguracja.md
   - podstawy.md
-  - medic.md
-  - radio.md
+  - struktura_dowodzenia.md
   - formacje.md
-  - sl.md
-  - sniper.md
-  - JTAC-heli.md
+  - Role:
+      - pl.md
+      - sl.md
+      - tl.md
+      - medic.md
+      # - sniper.md
+      - JTAC-heli.md
+  - Radio:
+      - radio.md
+      - raporty.md
+      - slownik_cas.md
+      - 5liner.md
   - dodatkowe.md

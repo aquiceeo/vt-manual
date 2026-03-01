@@ -34,9 +34,3 @@ Respiratory -
 Circulation -
 Heat -
 (EveryThink) Else -
-
-## Materiały dodatkowe
-
-- Ace Medical - [STEAM:https://steamcommunity.com/](phttps://steamcommunity.com/sharedfiles/filedetails/?id=930706887)
-- KAT/KAM - [GOOGLE DOCS:https://docs.google.com/](https://docs.google.com/document/d/1YlY00qoL2gdrbOJJzi5aW19A3HqT7uXflszDYuK7h3M/edit#heading=h.o2zqe9mfqe9d)
-- PSOG Ace/kat - [GOOGLE DOCS:https://docs.google.com/](https://docs.google.com/document/d/15LhDhDqtymS5fqsV2kUVdpvJ2ou9wtEfCCRe4Qw4vrs/edit?pli=1#heading=h.c42o3ww91i0r)

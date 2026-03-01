@@ -1,5 +1,6 @@
 # Podstawy - radio
 ## Zasady korzystania z radia
+
 - Przemyśl co chcesz powiedzieć
 - Słuchaj zanim coś powiesz
 - Krótki treściwy komunikat w prostym języku
@@ -11,7 +12,18 @@
 - Przekazywane informacje są zwięzłe i ścisłe –nie pozwalają na dwuznaczną interpretację.
 - Jeśli usłyszysz "BREAK, BREAK, BREAK" lub "MAYDAY, MAYDAY" musisz natychmiast przerwać swój komunikat!
 
-> **Przykład 1:**  
+## Schemat wywołania
+
+Najpierw mówisz do kogo "dzownisz", potem się przedstawiasz.
+Czyli jak Ty jesteś Alpha, i masz wiadomość do Bravo,
+to na radiu zaczynasz tak
+
+> Bravo dla Alpha, zgłoś
+
+## Przykłady
+
+**Przykład 1:**
+
 > A: HQ dla Alpha zgłoś.  
 > _[czekamy aż HQ odpowie czy można nadawać]_  
 > HQ: Alpha nadawaj  

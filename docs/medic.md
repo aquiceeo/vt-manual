@@ -2,6 +2,7 @@
 Lecząc kogoś w Armie warto postępować po kolei, żeby o niczym nie zapomnieć. SLuży do tego akronim SMARCHE rozwinięty niżej.  
 ## Cheatsheet
 A tutaj ściągawka dla zapominalskich.  
+
 **Przenieś**  
 - 
 **Połataj** 

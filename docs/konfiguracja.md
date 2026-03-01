@@ -7,9 +7,9 @@
 
 ## Memory alocator
 
-1. Pobieramy plik ze strony: <https://github.com/GoldJohnKing/mimalloc/releases/tag/Arma-3-v2.2.7-20260203/>   
-- wrzucamy ten plik \*.dll do katalogu DLL w gównym katalogu ARMY 3.  
-- nastepnie zmieniamy Memory Alocetor na mimaloc  
+- Pobieramy plik ze strony: <https://github.com/GoldJohnKing/mimalloc/releases/tag/Arma-3-v2.2.7-20260203/>   
+- Wrzucamy ten plik \*.dll do katalogu DLL w gównym katalogu ARMY 3.  
+- Nastepnie zmieniamy Memory Alocetor na mimaloc  
 ![Zmiana Memory Alocator](images/mimalloc_set.png)
 
 ## Wczytywanie presetu modów do Army

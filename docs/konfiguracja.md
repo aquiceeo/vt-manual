@@ -1,46 +1,22 @@
 # Konfiguracja i optymalizacja
+## Wersja Profiling
+![alt text](images/profiling.gif)  
 
-## Konfiguracja modów
+## Dodatkowe kroki
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GktBSZcglFk?si=bH9Qw_PX3Q7Iwaus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-### Wczytywanie presetu modów do Army
+## Memory alocator
 
-![alt text](images/preset.gif)
-
-## Optymalizacja Army
-
-### Wersja Profiling
-
-W STEAM otwieramy Biliotekę
-
-![Otwieramy Bibliotekę Steam](images/opty_1.jpg)
-
-Klikamy "prawym myszki" na Arma 3
-
-![Klikamy prawym myszki na Arma 3](images/opty_2.jpg)
-
-Wybieramy: Wersje i bety gry
-
-![Wybieramy proffiling](images/opty_3.jpg)
-
-### Ustawienia Graficzne Army
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GktBSZcglFk?si=bH9Qw_PX3Q7Iwaus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### mimalloc
-
-1. Pobieramy plik ze strony: [github.com](https://github.com/GoldJohnKing/mimalloc/releases/tag/Arma-3-v2.2.7-20260203)
-
-- wrzucamy ten plik \*.dll do katalogu DLL w gównym katalogu ARMY 3.
-- nastepnie zmieniamy Memory Alocetor na mimaloc
-
+- Pobieramy plik ze strony: <https://github.com/GoldJohnKing/mimalloc/releases/tag/Arma-3-v2.2.7-20260203/>   
+- Wrzucamy ten plik \*.dll do katalogu DLL w gównym katalogu ARMY 3.  
+- Nastepnie zmieniamy Memory Alocetor na mimaloc  
 ![Zmiana Memory Alocator](images/mimalloc_set.png)
 
-## TeamSpeak
+## Wczytywanie presetu modów do Army
+![alt text](images/preset.gif)  
 
-### Reset ACRE
+## Reset ACRE
+![alt text](images/reset.gif)  
 
-![alt text](images/reset.gif)
-
-### Wyłączenie powiadomień na TeamSpeaku
-
-![alt text](images/ts.gif)
+## Wyłączenie powiadomień na TeamSpeaku
+![alt text](images/ts.gif)  

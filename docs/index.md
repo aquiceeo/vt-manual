@@ -10,6 +10,3 @@ Arma zyskuje przy grze w kilka osób. Błyszczy przy grze w kilkanaście bądź 
 Nasze presety - [github.com/ut3k/arma3_vt_setup/releases](https://github.com/ut3k/arma3_vt_setup/releases)  
 Nasz discord - [discord.gg/87sZzY6DdE](https://discord.gg/87sZzY6DdE)  
 Nasz Unit w Armie 3 - [units.arma3.com/unit/vectortactics](https://units.arma3.com/unit/vectortactics)
-
-Wersja. 1.0
-

@@ -11,7 +11,6 @@ theme:
     scheme: slate
     primary: red
     accent: red
-# nie ma potrzeby tytułować tutaj, nagłówek # w konkretnym pliku jest jednocześnie tytułem
 nav:
   - index.md
   - konfiguracja.md
@@ -30,5 +29,4 @@ nav:
       - raporty.md
       - slownik_cas.md
       - 5liner.md
-
   - dodatkowe.md

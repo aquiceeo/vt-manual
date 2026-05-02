@@ -15,13 +15,13 @@ nav:
   - index.md
   - konfiguracja.md
   - podstawy.md
+  - medic.md
   - struktura_dowodzenia.md
   - formacje.md
   - Role:
       - pl.md
       - sl.md
       - tl.md
-      - medic.md
       # - sniper.md
       - JTAC-heli.md
   - Radio:

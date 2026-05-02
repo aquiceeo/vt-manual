@@ -2,6 +2,8 @@
 
 Lecząc kogoś w Armie warto postępować po kolei, Poniżej ściągawka co robić,w jakkiej sytuacji, wedle kolejności. **Pomijajac jakiś krok ryzykujesz tym, że nie podniesiesz kolegi i pojdzie wcześniej spać zamiast z tobą grać.**
 
+![ściąga medyczna](images/medic.png)
+
 #### Safety - Bezpieczeństwo
 - nie jest bezpiecznie - przenieś za osłonę/rzuć dym/pokonaj przeciwnika  
 #### Massive Bleedings - Krwawienia

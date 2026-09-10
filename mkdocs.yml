@@ -22,7 +22,7 @@ nav:
       - pl.md
       - sl.md
       - tl.md
-      # - sniper.md
+      - sniper.md
       - JTAC-heli.md
   - Radio:
       - radio.md
